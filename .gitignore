@@ -1,0 +1,7 @@
+/east/model/
+/east/saved_model_weights/
+/.idea/
+/crnn/model/
+/dataset/card_nbr/
+/dataset/card/
+/auged/
